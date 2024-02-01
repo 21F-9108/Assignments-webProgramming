@@ -1,0 +1,28 @@
+body{
+    background-color: #282A35;
+}
+
+h2{
+    color:white;
+    font-size: 32px;
+    font-weight: 400;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom:20px;
+}
+h6{
+    color:white;
+    font-weight: 400;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px
+}
+button{
+    color:white;
+    background-color:#07c781;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    font-size: 18px;
+    text-align: center;
+    padding: 15px 25px;
+
+}
